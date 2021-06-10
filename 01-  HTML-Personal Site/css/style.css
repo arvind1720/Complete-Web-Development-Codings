@@ -1,0 +1,25 @@
+body{
+  background-color:pink;
+
+}
+h1{
+  color:blue;
+}
+
+h2{
+  color:yellow;
+}
+
+h3{
+  color:yellow;
+}
+
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color:grey;
+  width:10%;
+}

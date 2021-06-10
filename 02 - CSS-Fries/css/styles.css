@@ -1,0 +1,19 @@
+body{
+  background-color:pink;
+}
+
+h1 {
+  color: red;
+  font-size:100px;
+}
+
+/*-------------classs sector---------------*/
+
+.potato{
+  background-color:green;
+}
+
+.broccoli{
+  background-color:orange;
+  width:100px;
+}

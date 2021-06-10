@@ -1,0 +1,25 @@
+height=prompt("Enter your height in metres");
+
+weight=prompt("Enter your weight in kg" );
+
+
+calBmi();
+
+
+if(bmi<24.9) alert ("BMI ="+bmi.toFixed(2)+" .Your bmi is underweight");
+
+else if(bmi>=18.5 && bmi<=24.9) alert ("BMI ="+bmi.toFixed(2)+" .Your bmi is normal");
+
+else if(bmi<24.9) alert ("BMI ="+bmi.toFixed(2)+" .Your bmi is underweight");
+
+else if(bmi>=25 && bmi<=29.9) alert ("BMI ="+bmi.toFixed(2)+" .Your bmi is overweight");
+
+else alert("BMI ="+bmi.toFixed(2)+" .Your bmi is overweight");
+
+
+function calBmi(){
+
+bmi=(weight)/(height*height);
+
+}
+

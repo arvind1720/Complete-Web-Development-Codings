@@ -1,0 +1,20 @@
+
+#check{
+  text:"YES";
+  color: red;
+  background-color: red;
+
+}
+
+.huge{
+    font-size: 10rem;
+    color:red;
+    font-weight: bold;
+  }
+
+
+}
+
+.invisible{
+  visibility: hidden;
+}

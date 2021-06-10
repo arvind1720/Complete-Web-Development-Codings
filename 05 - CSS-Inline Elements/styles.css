@@ -1,0 +1,12 @@
+p{
+  background-color: red;
+  width:100px;
+  display: inline;
+}
+
+span{
+  background-color: red;
+  width:100px;
+  display: inline;
+  visibility: hidden;
+}
