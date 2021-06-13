@@ -1,3 +1,5 @@
 FULL STACK WEB DEVELOPEMNT CODINGS
 
-COPYRIGHT: https://arvindunimap.wordpress.com/
+Copyright @ Arvind's blog 
+
+https://arvindunimap.wordpress.com/
