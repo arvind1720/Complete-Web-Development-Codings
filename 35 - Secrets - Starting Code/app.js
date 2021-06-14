@@ -22,7 +22,6 @@ const userSchema= new mongoose.Schema({
   password:String
 });
 
-const secret= "Thisisourlittlesecret.";
 
 const User = new mongoose.model("User",userSchema);
 
